@@ -1,0 +1,14 @@
+D:\Programming Projects\C#\General\printing_stars\bin\Debug\net6.0\printing_stars.exe
+D:\Programming Projects\C#\General\printing_stars\bin\Debug\net6.0\printing_stars.deps.json
+D:\Programming Projects\C#\General\printing_stars\bin\Debug\net6.0\printing_stars.runtimeconfig.json
+D:\Programming Projects\C#\General\printing_stars\bin\Debug\net6.0\printing_stars.dll
+D:\Programming Projects\C#\General\printing_stars\bin\Debug\net6.0\printing_stars.pdb
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.AssemblyInfoInputs.cache
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.AssemblyInfo.cs
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.csproj.CoreCompileInputs.cache
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.dll
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\refint\printing_stars.dll
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.pdb
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\printing_stars.genruntimeconfig.cache
+D:\Programming Projects\C#\General\printing_stars\obj\Debug\net6.0\ref\printing_stars.dll
